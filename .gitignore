@@ -1,0 +1,14 @@
+# Ignorar archivos .DS_Store (macOS)
+.DS_Store
+
+# Ignorar archivos de configuración local
+.env
+*.local
+
+# Ignorar carpetas de dependencias
+node_modules/
+vendor/
+
+
+# Ignorar archivos de sistema
+Thumbs.db
