@@ -1,9 +1,9 @@
 
 # Sistemas Operativos - Apuntes y Prácticas  
 
-![Sistemas Operativos](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)  
 
 **Bienvenido a mi repositorio de Sistemas Operativos**  
+![Sistemas Operativos](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJqMnJsZ2t3MmpvbHRvdWIyeW51b2E1dGoxdDhjZGFlcXlibWVvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif)  
 Este espacio contiene mis avances, prácticas y proyectos de la materia. Aquí encontrarás código, notas y ejercicios relacionados con la gestión de procesos, hilos, memoria, sistemas de archivos y más.
 
 ---
