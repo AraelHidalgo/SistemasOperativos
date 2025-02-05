@@ -8,17 +8,17 @@ Este espacio contiene mis avances, prácticas y proyectos de la materia. Aquí e
 
 ---
 
-## **Contenido del Repositorio**  
-** Teoría:** Resúmenes y explicaciones sobre conceptos clave.  
-** Prácticas:** Código en C, scripts y ejemplos.  
-** Proyectos:** Implementaciones avanzadas como manejo de procesos e IPC.  
+## Contenido del Repositorio
+**Teoría:** Resúmenes y explicaciones sobre conceptos clave.  
+**Prácticas:** Código en C, scripts y ejemplos.  
+**Proyectos:** Implementaciones avanzadas como manejo de procesos e IPC.  
 
 ---
 
-## **Tecnologías y Herramientas**  
-**Lenguaje:** C  
-**Base de datos:** PostgreSQL  
-**Entorno:** MacOS  
+## Tecnologías y Herramientas
+**Lenguaje**: C  
+**Base de datos**: PostgreSQL  
+**Entorno**: MacOS  
 
 ---
 
