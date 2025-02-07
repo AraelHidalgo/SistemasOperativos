@@ -8,7 +8,7 @@
 # Ignorar carpetas de dependencias
 node_modules/
 vendor/
-.vs_code
+.vscode
 
 
 # Ignorar archivos de sistema
