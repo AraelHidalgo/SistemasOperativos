@@ -1,6 +1,10 @@
 # Ignorar archivos .DS_Store (macOS)
 .DS_Store
-.vscode
+
+# Ignorar carpeta .vscode
+.vscode/
+
+# Ignorar archivos .json
 .json
 
 # Ignorar archivos de configuración local
@@ -10,7 +14,6 @@
 # Ignorar carpetas de dependencias
 node_modules/
 vendor/
-
 
 # Ignorar archivos de sistema
 Thumbs.db
