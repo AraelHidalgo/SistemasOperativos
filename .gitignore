@@ -2,10 +2,10 @@
 .DS_Store
 
 # Ignorar carpeta .vscode
-.vscode/*
+*.vscode/
 
 # Ignorar archivos .json
-.json
+*.json
 
 # Ignorar archivos de configuración local
 .env
