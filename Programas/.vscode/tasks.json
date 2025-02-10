@@ -9,7 +9,11 @@
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}/${fileBasenameNoExtension}"
+                "${fileDirname}/${fileBasenameNoExtension}",
+                "${fileDirname}/${fileBasenameNoExtension}",
+                "-I/Applications/Postgres.app/Contents/Versions/15/include",
+                "-L/Applications/Postgres.app/Contents/Versions/15/lib",
+                "-lpq"
             ],
             "options": {
                 "cwd": "${fileDirname}"
