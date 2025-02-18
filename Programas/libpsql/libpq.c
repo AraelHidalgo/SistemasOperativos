@@ -416,15 +416,14 @@ int main(int argc, char *argv[]) {
                     break;
             }
 
-            PQfinish(hijo_conn); // Cerrar la conexión del hijo
+            PQfinish(hijo_conn); // Cerrando la conexión del hijo
             exit(0);
         } else {
-            // Proceso padre: Esperar al hijo
             wait(NULL);
             printf("Proceso hijo terminado (PID: %d)\n", pid);
+            //padre
+            printf("Proceso padre (PPID: %d)\n", getppid());
         }
     } while (opc != 0);
-
-    // Cerrar la conexión del padre al salir
     return 0;
 }
