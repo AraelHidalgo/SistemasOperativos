@@ -1,8 +1,6 @@
-# Ignorar archivos .DS_Store (macOS)
-.DS_Store
+.vscode/*
 
-# Ignorar todas las carpetas .vscode
-**/.vscode/
+.DS_Store
 
 # Ignorar archivos .json
 *.json

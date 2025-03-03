@@ -21,11 +21,11 @@ Este espacio contiene mis avances, prácticas y proyectos de la materia. Aquí e
 **Entorno**: MacOS  
 
 ---
-
-## **Ejemplo de Código**  
+  
 ```c
 #include <stdio.h>
 int main() {
-    printf("¡Hola, Sistemas Operativos!\n");
+    printf("¡Hola MF!\n");
     return 0;
 }
+
